@@ -20,7 +20,7 @@
       </li>
       <li>
           <p>📫 How to reach me:</p>
-            <p>Discord - baejungmin07</p>
+            <p>Discord - bjm0707</p>
       </li>
       <li>
           <p>😄 Pronouns: He/Him</p>
